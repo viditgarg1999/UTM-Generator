@@ -3,7 +3,7 @@ This Python Script will helps you to generate Urchin Tracking Module (UTM) param
 
 # How to use
 1. Download the UTM_GENERATOR.py script
-2. Open it with any Python IDE (Jupyter Notebook, Spider,IDLE...).
+2. Open it with any Python IDE (Jupyter Notebook, Spyder,IDLE...).
 3. Enter all the Necessay details (Website Url, UTM source, Medium e.t.c.)
 4. Once it is done, the script will generate a UTM code, just copy it and Enjoy tracking.
 (If you want then you can also short the generated URL using any URL shortener(goo.gl, bit.ly etc.))
