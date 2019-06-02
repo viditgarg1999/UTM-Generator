@@ -59,14 +59,6 @@ Examples: logolink or textlink
 #Just copy the generated url and enjoy tracking.
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
